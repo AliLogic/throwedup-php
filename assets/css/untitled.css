@@ -1,0 +1,12 @@
+.btn.btn-primary.btn-sm.d-none.d-sm-inline-block {
+  background-color: #1cc88a;
+}
+
+body {
+  overflow: auto; /* Hide scrollbars */
+}
+
+.card-horizontal {
+  display: flex;
+  flex: 1 1 auto;
+}
